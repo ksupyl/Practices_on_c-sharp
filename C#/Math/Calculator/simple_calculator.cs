@@ -4,7 +4,6 @@ public class MainClass
 {
     public static void Main()
     {
-        // put your c# code here
         int num1 = Convert.ToInt32(Console.ReadLine());
         int num2 = Convert.ToInt32(Console.ReadLine());
         string znak = Console.ReadLine();
