@@ -1,0 +1,14 @@
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\bin\Debug\net8.0\Distance_between_two_points_in_the_plane.exe
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\bin\Debug\net8.0\Distance_between_two_points_in_the_plane.deps.json
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\bin\Debug\net8.0\Distance_between_two_points_in_the_plane.runtimeconfig.json
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\bin\Debug\net8.0\Distance_between_two_points_in_the_plane.dll
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\bin\Debug\net8.0\Distance_between_two_points_in_the_plane.pdb
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\obj\Debug\net8.0\Distance_between_two_points_in_the_plane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\obj\Debug\net8.0\Distance_between_two_points_in_the_plane.AssemblyInfoInputs.cache
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\obj\Debug\net8.0\Distance_between_two_points_in_the_plane.AssemblyInfo.cs
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\obj\Debug\net8.0\Distance_between_two_points_in_the_plane.csproj.CoreCompileInputs.cache
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\obj\Debug\net8.0\Distance_between_two_points_in_the_plane.dll
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\obj\Debug\net8.0\refint\Distance_between_two_points_in_the_plane.dll
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\obj\Debug\net8.0\Distance_between_two_points_in_the_plane.pdb
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\obj\Debug\net8.0\Distance_between_two_points_in_the_plane.genruntimeconfig.cache
+C:\Users\Бородатая_Неясыть\source\repos\Math\Distance_between_two_points_in_the_plane\obj\Debug\net8.0\ref\Distance_between_two_points_in_the_plane.dll

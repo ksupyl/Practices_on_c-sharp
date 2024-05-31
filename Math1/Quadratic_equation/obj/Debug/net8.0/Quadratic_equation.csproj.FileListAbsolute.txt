@@ -1,0 +1,14 @@
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\bin\Debug\net8.0\Quadratic_equation.exe
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\bin\Debug\net8.0\Quadratic_equation.deps.json
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\bin\Debug\net8.0\Quadratic_equation.runtimeconfig.json
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\bin\Debug\net8.0\Quadratic_equation.dll
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\bin\Debug\net8.0\Quadratic_equation.pdb
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\obj\Debug\net8.0\Quadratic_equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\obj\Debug\net8.0\Quadratic_equation.AssemblyInfoInputs.cache
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\obj\Debug\net8.0\Quadratic_equation.AssemblyInfo.cs
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\obj\Debug\net8.0\Quadratic_equation.csproj.CoreCompileInputs.cache
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\obj\Debug\net8.0\Quadratic_equation.dll
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\obj\Debug\net8.0\refint\Quadratic_equation.dll
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\obj\Debug\net8.0\Quadratic_equation.pdb
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\obj\Debug\net8.0\Quadratic_equation.genruntimeconfig.cache
+C:\Users\Бородатая_Неясыть\source\repos\Math\Quadratic_equation\obj\Debug\net8.0\ref\Quadratic_equation.dll

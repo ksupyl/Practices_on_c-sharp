@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Distance_between_two_points_in_the_plane/1.0.0": {
+        "runtime": {
+          "Distance_between_two_points_in_the_plane.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Distance_between_two_points_in_the_plane/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
